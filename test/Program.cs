@@ -6,7 +6,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            //testGitHub
+            //testGitHub2
             Application schoolApplication = new Application();
             Student student1 = new Student("student1", "sc", "student1@app.com", "0");//userID=1 password=0
             schoolApplication.AddNewUser(student1);
